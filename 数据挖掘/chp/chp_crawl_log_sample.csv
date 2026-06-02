@@ -1,0 +1,4 @@
+﻿Herb_ID,Herb_cn_name,status,detail_url,filled_fields,message
+HERB000742,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,Herb_latin_name|UsePart|Properties|Meridians|Function|Indication,
+HERB004572,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,UsePart|Properties|Meridians|Function|Indication,
+HERB005088,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,UsePart|Properties|Meridians|Function|Indication,

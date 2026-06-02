@@ -1,0 +1,5 @@
+﻿Herb_ID,Herb_cn_name,chp_status,chp_detail_url,chp_filled_fields,chp_message,dayi_status,dayi_detail_url,dayi_filled_fields,dayi_message
+HERB000742,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,Herb_latin_name|UsePart|Properties|Meridians|Function|Indication,,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity|Therapeutic_cn_class,
+HERB004572,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,UsePart|Properties|Meridians|Function|Indication,,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity|Therapeutic_cn_class,
+HERB001210,当归,skipped_no_chp_blank_fields,,,,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity,
+HERB005088,当归,ok,https://ydz.chp.org.cn/#/item?bookId=1&entryId=204,UsePart|Properties|Meridians|Function|Indication,,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity|Therapeutic_cn_class,

@@ -1,0 +1,2 @@
+﻿TCM_symptom_id,TCM_symptom_name,first_source,first_status,first_detail_url,first_message,second_source,second_status,second_detail_url,second_message,updated,updated_source
+2344,骨髓炎,duguji,ok,https://baike.duguji.cn/baike/w/%E9%AA%A8%E9%AB%93%E7%82%8E,,,skipped_first_source_success,,,yes,duguji

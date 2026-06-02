@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+.claude/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+*.log
+
+# 本地密钥与 Streamlit 配置
+.env
+.streamlit/
+
+# 临时测试输出文件（已在 git 历史中保留，不再追踪）
+/*_results.txt
+/*_scores*.txt
+/*_full.txt
+/*_full*.txt
+/shanghuo.txt
+/test_results.txt
+
+# 数据挖掘缓存
+数据挖掘/**/chp_cache/
+数据挖掘/**/*cache*/
+
+# 内部文档 — 仅本地保留，不进入公开仓库
+ppt/
+实验报告/

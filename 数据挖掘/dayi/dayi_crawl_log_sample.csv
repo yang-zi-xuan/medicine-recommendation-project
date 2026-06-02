@@ -1,0 +1,5 @@
+﻿Herb_ID,Herb_cn_name,status,detail_url,filled_fields,message
+HERB000742,当归,ok,https://www.dayi.org.cn/cmedical/300362.html,Herb_latin_name|Toxicity|Therapeutic_cn_class|UsePart|Function|Indication|Properties|Meridians,
+HERB001210,当归,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity,
+HERB004572,当归,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity|Therapeutic_cn_class|UsePart|Function|Indication|Properties|Meridians,
+HERB005088,当归,ok,https://www.dayi.org.cn/cmedical/300362.html,Toxicity|Therapeutic_cn_class|UsePart|Function|Indication|Properties|Meridians,
